@@ -1,4 +1,5 @@
-const url = "http://127.0.0.1:5000"
+const urlDebug = "http://127.0.0.1:5000"
+const url = "https://pokesearch-j1yc.onrender.com"
 document.getElementById("button").addEventListener("click", async (e) => {
     e.preventDefault();
     let data = document.getElementById("name").value
