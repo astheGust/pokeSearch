@@ -1,6 +1,6 @@
 ## Pokedex Simplificada
 
-<img src="screenshot.gif">
+<img src="./imgs/screenshot.gif">
 
 # Sobre
 Um bestiário pokemon que utiliza os dados obtidos através da PokeApi, usuário pesquisa o nome de um monstrinho e recebe junto de uma imagem correspondente, informações sobre seus atributos básicos.
