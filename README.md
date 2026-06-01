@@ -17,4 +17,5 @@ Um bestiário pokemon que utiliza os dados obtidos através da PokeApi, usuário
 - Criaçao de rotas utilizando Flask
 - Consumo de Apis externas com Python e Requests
 - Tratamento de respostas recebidas da API
+- Deploy do servidor com Render
   
